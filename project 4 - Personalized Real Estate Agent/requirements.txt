@@ -1,0 +1,16 @@
+langchain==0.1.10
+langchain-community==0.0.25
+langchain-core==0.1.28
+langchain-experimental==0.0.53
+langchain-text-splitters==0.0.1
+openai==0.28.0
+pydantic==2.6.0
+pydantic_core==2.16.1
+pytest>=7.4.0
+sentence-transformers>=2.2.0
+transformers>=4.31.0
+chromadb==0.4.24
+jupyter==1.0.0
+bitsandbytes
+diffusers
+accelerate
